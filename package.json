@@ -7,9 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "format": "prettier-eslint \"src/**/*.js\"",
-    "test": "jest"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@testing-library/react": "^16.1.0",
